@@ -18,8 +18,8 @@ The following embedding modules have been implemented:
 
 The repository is organized as follows:
 
-* `base_model.py` - baseline model code,
-* `embedding_modules.py` - embedding module code,
+* `base_model.py` - code for baseline models (logistic regression, factorization machine),
+* `embedding_modules.py` - code for embedding modules,
 * `evaluate.py` - script to evaluate proposed models' performance,
 * `requirements.txt` - used to initialize conda environment.
 
